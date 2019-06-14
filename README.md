@@ -1,3 +1,5 @@
 #Python Introduction
 ##Authors
-pzim
+petra zimmmermann
+##Date
+June 2019
